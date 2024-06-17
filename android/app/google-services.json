@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609422563836",
+    "project_id": "adaptive-ui-c7b16",
+    "storage_bucket": "adaptive-ui-c7b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609422563836:android:a4d2b6fe2d52dc121e3a79",
+        "android_client_info": {
+          "package_name": "com.gobindinho.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWESNOuxMvBPL0FUj-cvU1TK0g80js1yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
